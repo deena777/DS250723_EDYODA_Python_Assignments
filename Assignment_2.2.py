@@ -10,5 +10,4 @@ corresponding ASCII values
 ascii_dict = {}
 for letter in range(ord('a'), ord('z') + 1):
     ascii_dict[chr(letter)] = letter
-for key, value in ascii_dict.items():
-    print(f"{key}: {value}")
+print(ascii_dict)
