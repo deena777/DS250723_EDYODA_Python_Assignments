@@ -1,0 +1,38 @@
+
+[
+    {
+        "Name": "David John",
+        "DOB": "1990-05-15",
+        "Height": 175,
+        "City": "Kochi",
+        "State": "Kerala"
+    },
+    {
+        "Name": "Anitha Pandyan",
+        "DOB": "1985-08-20",
+        "Height": 162,
+        "City": "Chennai",
+        "State": "Tamil Nadu"
+    },
+    {
+        "Name": "Sanju Reddy",
+        "DOB": "1992-03-10",
+        "Height": 180,
+        "City": "Hyderabad",
+        "State": "Telangana"
+    },
+    {
+        "Name": "Viraj Anand",
+        "DOB": "1995-07-25",
+        "Height": 183,
+        "City": "Amaravati",
+        "State": "Andhra Pradesh"
+    },
+    {
+        "Name": "Reena Desai",
+        "DOB": "1988-12-05",
+        "Height": 168,
+        "City": "Bengaluru",
+        "State": "Karnataka"
+    }
+]
