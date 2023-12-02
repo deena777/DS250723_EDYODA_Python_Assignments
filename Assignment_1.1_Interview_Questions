@@ -1,0 +1,29 @@
+Data Types:
+1.Differentiate between primitive and non-primitive data types.
+2.Explain the concept of static and dynamic typing.
+3.Explain the concept of type casting and type coercion.
+4.How does a language handle complex data types like structures or classes?
+
+Operators:
+5.Differentiate between '==' and 'is' in Python.
+6.Differentiate between '/' and '//' operators in Python.
+7.How does the 'in' operator work with dictionaries?
+8.What is the purpose of the 'isinstance()' function, and how does it relate to operators?
+
+Conditional Statements:
+9.What is the ternary operator in Python, and how is it used for conditional expressions?
+10.What is the purpose of the "pass" statement in Python?
+11.Explain the "pass" statement and when it might be useful in Python conditional statements.
+12.Discuss the role of the "None" keyword in conditional statements.
+
+Looping Statements:
+13.Explain the difference between 'for' and 'while' loops in Python.
+14.Explain the 'break' and 'continue' statements in Python loops.
+15.Explain the use of 'enumerate()' in a 'for' loop.
+16.How can you exit a loop prematurely using a specific condition?
+
+Functions:
+17.Explain the difference between parameters and arguments in a function.
+18.How can you return multiple values from a function in Python?
+19.What is a docstring in Python? How is it used in functions?
+20.Explain the concept of decorators in Python functions.
